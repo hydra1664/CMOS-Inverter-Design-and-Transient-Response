@@ -38,5 +38,3 @@ The CMOS inverter performed as expected under simulation. Proper transistor sizi
 ## Files included
 - All circuit files are available in the folder named Circuit Files.  
 - The image containing both the circuit schematic and waveform plots (Vin, Vout, and I(Vdd)) is available in the folder named Images.
-
-Author: Mohammad Amash
